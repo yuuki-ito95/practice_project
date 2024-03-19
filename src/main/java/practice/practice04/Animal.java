@@ -1,4 +1,4 @@
-package practicce.practicce04;
+package practice.practice04;
 
 public class Animal {
 

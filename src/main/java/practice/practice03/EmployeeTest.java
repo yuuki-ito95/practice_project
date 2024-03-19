@@ -1,4 +1,4 @@
-package practicce.practicce03;
+package practice.practice03;
 
 public class EmployeeTest {
 
